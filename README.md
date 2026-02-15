@@ -33,6 +33,8 @@ _This section is updated daily (or 15 mins a day) to track consistency and troub
 
 ### February 2026
 
+- **Feb 14:** I build my first Neural Network with PyTorch, which consisted of a shallow neural network with single hidden layer and three neurons in the hidden layer.
+  - _Insight:_ To allow the NN to learn non-linear patterns, the ReLU activation function was used. The NN was trained using MSE and SGD.
 - **Feb 15:** Initialized roadmap. Started PyTorch Specialization. Setting up environmet for learning...
   - _Insight:_ Learned about how PyTorch uses tensors for efficient computation and basic tensor commands for reshape, tensor math, broadcasting, etc.
 - **Feb 16:**
