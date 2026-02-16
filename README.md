@@ -37,7 +37,8 @@ _This section is updated daily (or 15 mins a day) to track consistency and troub
   - _Insight:_ To allow the NN to learn non-linear patterns, the ReLU activation function was used. The NN was trained using MSE and SGD.
 - **Feb 15:** Initialized roadmap. Started PyTorch Specialization. Setting up environmet for learning...
   - _Insight:_ Learned about how PyTorch uses tensors for efficient computation and basic tensor commands for reshape, tensor math, broadcasting, etc.
-- **Feb 16:**
+- **Feb 16:** I did the official PyTorch quick tutorial on Tensors. This complemented the training I tool from the DeepLearning.AI course. Started the autograd tutorial, which is the automatic differentiation engine that powers neural network training in PyTorch.
+  - _Insight:_ Tensors can be hosted in CPU or GPU device, depending on HW availability. If GPU is used, computations are faster and more efficient. Autograd is easy to use, but I need to spend more time on it.
 
 ---
 
